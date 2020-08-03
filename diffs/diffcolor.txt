@@ -9,3 +9,5 @@ Another		-	FF6666
 Extra		-	AA88FF
 Extra+		-	9966FF
 Ultra		-	000000
+
+Others		-	AAB0B3
