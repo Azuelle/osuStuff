@@ -7,7 +7,7 @@ Hyper/LtI	-	FF9933
 Insane		-	FF66AA
 Another		-	FF6666
 Extra		-	AA88FF
-Extra+		-	9966FF
+Extra+		-	8888ff
 Ultra		-	000000
 
 Others		-	AAB0B3
